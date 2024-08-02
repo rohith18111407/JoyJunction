@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "ShoppingIcon.png",
+      "name": "Remote Control Car",
+      "price": "40",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Building Blocks Set",
+      "image": "ShoppingIcon.png",
+      "price": "13.5",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "image": "ShoppingIcon.png",
+      "name": "Dollhouse",
+      "price": "85.0",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "image": "ShoppingIcon.png",
+      "name": "Stuffed Animal - Gray Cat",
+      "price": "625",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "name": "Action Figure - Superhero",
+      "image": "ShoppingIcon.png",
+      "price": "55.0",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Play Kitchen Set",
+      "image": "ShoppingIcon.png",
+      "price": "115.0",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Fashion Doll",
+      "image": "ShoppingIcon.png",
+      "price": "25.0",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "Toy Train Set",
+      "image": "ShoppingIcon.png",
+      "price": "52.0",
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "name": "Puzzle Game - Animal Kingdom",
+      "image": "ShoppingIcon.png",
+      "price": "32.0",
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "name": "Educational Toy - Building Robots",
+      "image": "ShoppingIcon.png",
+      "price": "55.0",
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "name": "Art Set - Drawing and Painting",
+      "image": "ShoppingIcon.png",
+      "price": "15.0",
+      "rating": 1
+    },
+    {
+      "id": 12,
+      "name": "Outdoor Sports Set",
+      "image": "ShoppingIcon.png",
+      "price": "12.5",
+      "rating": 2
+    },
+    {
+      "id": 13,
+      "name": "Musical Instrument - Drum Set",
+      "image": "ShoppingIcon.png",
+      "price": "14.5",
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "name": "Artificial Intelligence Robot",
+      "image": "ShoppingIcon.png",
+      "price": "15.5",
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "name": "Science Experiment Kit",
+      "image": "ShoppingIcon.png",
+      "price": "12.5",
+      "rating": 3
+    }
+  ]
+}
