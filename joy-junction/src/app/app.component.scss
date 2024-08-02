@@ -1,0 +1,7 @@
+.wrapper{
+    height:auto;
+    padding:20px;
+    width:100%;
+    box-sizing: border-box;
+    flex-grow:1;    // to make wrapper class to take the complete center stage, header and footer are grown in vertical manner along with wrapper
+}
